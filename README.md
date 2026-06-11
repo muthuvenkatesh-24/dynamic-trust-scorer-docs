@@ -50,4 +50,4 @@ Trust < Threshold
 Project documentation is available through GitHub Pages:
 
 ```text
-https://YOUR_USERNAME.github.io/dynamic-trust-scorer-docs/
+https://muthuvenkatesh-24.github.io/dynamic-trust-scorer-docs/
